@@ -6,3 +6,9 @@ It also allows to add new contact to the address book and change profile image b
 
 App contains: Floating action button, Navigation drawer, ListView, 3 fragments and 2 activities, SharedPreferenced to store the data,
 permissions, Option menu, data sent between Intents.
+
+<img src="https://github.com/simasgg/Address-Book-Android-app/blob/master/img2.jpg" align="left" width="250" height="400">
+<img src="https://github.com/simasgg/Address-Book-Android-app/blob/master/img1.jpg" align="left" width="250" height="400">
+<img src="https://github.com/simasgg/Address-Book-Android-app/blob/master/img4.jpg" align="left" width="250" height="400">
+<img src="https://github.com/simasgg/Address-Book-Android-app/blob/master/img3.jpg" align="left" width="250" height="400">
+<img src="https://github.com/simasgg/Address-Book-Android-app/blob/master/img5.jpg" align="left" width="250" height="400">
